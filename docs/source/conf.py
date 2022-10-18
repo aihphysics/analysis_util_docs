@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Analysis Utils'
+copyright = '2022, A. I. H.'
+author = 'A. I. H.'
 
-release = '0.1'
-version = '0.1.0'
+release = '0'
+version = 'beta'
 
 # -- General configuration
 
