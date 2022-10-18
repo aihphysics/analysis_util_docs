@@ -14,9 +14,9 @@ utilise the cmake lists
 
 
 
-.. autofunction:: lumache.get_random_ingredients
+'' .. autofunction:: lumache.get_random_ingredients
 
 will raise an exception.
 
-.. autoexception:: lumache.InvalidKindError
+'' .. autoexception:: lumache.InvalidKindError
 
